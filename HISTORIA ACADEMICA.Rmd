@@ -8,6 +8,7 @@ output: html_document
 ## FACULTAD DE CIENCIAS FISICO MATEMATICAS
 ### LICENCIATURA EN ACTUARIA
 #### *MATERIAS:*________________________*CALIFICACION:*
+#####PRIMER SEMESTRE
 
 * MATEMATICAS BASICAS.........................9
 * PROBLEMAS DE MATEMATICAS BASICAS...........9
@@ -15,12 +16,18 @@ output: html_document
 * DHPC....................................10
 * PROGRAMACION ACTUARIAL I.................8
 * INTRODUCCION A LA PROFESION ACTUARIAL...10
+
+#####SEGUNDO SEMESTRE
+
 * CALCULO DIFERENCIAL......................8
 * TEORIA DE ECUACIONES.....................6
 * FHS......................................9
 * MICROECONOMIA............................8
 * TEORIA DEL INTERES I.....................8
 * PROGRAMACION ACTUARIAL II................8
+
+#####TERCER SEMESTRE
+
 * CALCULO INTEGRAL.........................9
 * ALGEBRA LINEAL...........................8
 * MACROECONOMIA............................9
