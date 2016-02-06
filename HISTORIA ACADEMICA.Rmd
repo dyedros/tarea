@@ -1,0 +1,29 @@
+---
+title: "Historia Académica"
+author: "Didier"
+date: "5 de febrero de 2016"
+output: html_document
+---
+#BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA
+## FACULTAD DE CIENCIAS FISICO MATEMATICAS
+### LICENCIATURA EN ACTUARIA
+#### *MATERIAS:*________________________*CALIFICACION:*
+
+* MATEMATICAS BASICAS.........................9
+* PROBLEMAS DE MATEMATICAS BASICAS...........9
+* CONCEPTOS DE CALCULO......................10
+* DHPC....................................10
+* PROGRAMACION ACTUARIAL I.................8
+* INTRODUCCION A LA PROFESION ACTUARIAL...10
+* CALCULO DIFERENCIAL......................8
+* TEORIA DE ECUACIONES.....................6
+* FHS......................................9
+* MICROECONOMIA............................8
+* TEORIA DEL INTERES I.....................8
+* PROGRAMACION ACTUARIAL II................8
+* CALCULO INTEGRAL.........................9
+* ALGEBRA LINEAL...........................8
+* MACROECONOMIA............................9
+* DHTIC....................................9
+* TEORIA DEL INTERES II....................7
+* GEOMETRIA ANALITICA......................9
